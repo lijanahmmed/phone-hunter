@@ -1,6 +1,7 @@
 # Phone Hunter Api
 
-Search your phone. Like Iphone, Samsung, Huawei etc
+Search your phone. 
+Like Iphone, iPad, Samsung, Nova, Huawei, Reno, watch etc
 
 ## Live Demo :
 
